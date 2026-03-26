@@ -1,0 +1,11 @@
+@media (max-width: 1080px) {
+    p {
+        font-size: 20rem;
+    }
+}
+
+@media (min-width: 1080px) {
+    body {
+        font-size: 2rem;
+    }
+}
