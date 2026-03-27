@@ -16,4 +16,6 @@ begin
 (* Somar mais 4 *)
 
 (* Somar mais 5 *)
+  contador := 1;
+  wrtieln (contador);
 end.
