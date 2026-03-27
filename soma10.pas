@@ -24,3 +24,7 @@ writeln(contador);
 
   writeln("hello world");
 end.
+
+coisa pro futuro:
+
+bla bla bla
