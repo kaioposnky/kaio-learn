@@ -1,11 +1,38 @@
-@media (max-width: 1080px) {
-    p {
-        font-size: 20rem;
-    }
+@font-face {
+    font-family: Poppins;
+    src: url("assets/font/Poppins-Regular.ttf");
 }
 
 @media (min-width: 1080px) {
     body {
         font-size: 2rem;
+    }
+}
+
+#div-top {
+    display: flex;
+}
+
+.texto-bold-verde-grande {
+    font-size: 2rem;
+    font-weight: bold;
+    color: red;
+    font-family: "Poppins", "sans-serif";
+}
+
+.sombra-direita-baixo {
+    box-shadow: 10px 10px;
+    max-height: 200px;
+}
+
+#servico-div {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+@media (min-width: 1080px) {
+    #servico-div {
+        flex-direction: row;
     }
 }
