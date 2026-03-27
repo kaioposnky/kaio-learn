@@ -16,9 +16,11 @@ contador := contador + 1;
 
 (* Somar mais 4 *)
 contador := contador + 1;
-writeln(contador); 
+writeln(contador);
 
 (* Somar mais 5 *)
   contador := 1;
   wrtieln (contador);
+
+  writeln("hello world");
 end.
