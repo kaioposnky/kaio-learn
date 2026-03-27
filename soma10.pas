@@ -12,6 +12,8 @@ begin
 (* Somar mais 3 *)
 
 (* Somar mais 4 *)
+contador := contador + 1;
+writeln(contador); 
 
 (* Somar mais 5 *)
 end.
