@@ -8,7 +8,7 @@ begin
 (* Somar mais 1 *)
 
 (* Somar mais 2 *)
-
+contador := contador + 1;
 (* Somar mais 3 *)
   contador := contador +1;
   writeln(contador);
