@@ -14,6 +14,8 @@ begin
   writeln(contador);
 
 (* Somar mais 4 *)
+contador := contador + 1;
+writeln(contador); 
 
 (* Somar mais 5 *)
   contador := 1;
