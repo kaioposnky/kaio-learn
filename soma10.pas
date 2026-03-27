@@ -6,7 +6,8 @@ begin
   writeln(contador);
 
 (* Somar mais 1 *)
-
+ contador := contador + 1;
+  writeln(contador);
 (* Somar mais 2 *)
 contador := contador + 1;
 (* Somar mais 3 *)
